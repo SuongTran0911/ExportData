@@ -1,0 +1,10 @@
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\Models.dll.config
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\Models.dll
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\Models.pdb
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\EntityFramework.dll
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\EntityFramework.xml
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\obj\Debug\Models.dll
+E:\FIT_HCMUS\Subjects\_HK1_2016-2017\Phat trien ung dung HTTT hien dai\ExportData\OceanBlack\Models\obj\Debug\Models.pdb
