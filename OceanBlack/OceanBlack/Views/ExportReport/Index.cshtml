@@ -1,0 +1,23 @@
+﻿@model OceanBlack.Models.report
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Export", "ExportReport", FormMethod.Post))
+        {
+            <label>Date Transaction</label>
+            @Html.TextBoxFor(model => model.date_transation);
+            <button type="submit" value="Index">Export</button>
+        }
+    </div>
+</body>
+</html>
