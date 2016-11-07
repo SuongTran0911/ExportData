@@ -1,0 +1,25 @@
+﻿@model OceanBlack.Models.report
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("LoadDataOnView", "Home", FormMethod.Post))
+        {
+            <label>Date Transaction</label>
+            @Html.TextBoxFor(model => model.date_transation)
+            ;
+            <button type="submit" value="Index">LoadData</button>
+        }
+    </div>
+
+</body>
+</html>

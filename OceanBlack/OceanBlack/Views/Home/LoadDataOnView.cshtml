@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LoadDataOnView</title>
+</head>
+<body>
+    <table cellpadding="2" cellspacing="2" border="1" align="center" style="border-collapse: collapse">
+        <tr>
+            <th>Mastercard</th>
+            <th>Ammountmastercard</th>
+            <th>Debitcard</th>
+            <th>Ammountdebitcard</th>
+            <th>Date_transation</th>
+        </tr>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <th>@p.mastercard</th>
+                <th>@p.Ammountmastercard</th>
+                <th>@p.debitcard</th>
+                <th>@p.Ammountdebitcard</th>
+                <th>@p.date_transation</th>
+            </tr>
+        }
+    </table>
+</body>
+</html>
